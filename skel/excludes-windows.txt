@@ -1,0 +1,21 @@
+*.lnk
+RECYCLER
+$RECYCLE.BIN
+NTUSER.DAT*
+ntuser.dat*
+UsrClass.dat*
+parent.lock
+Thumbs.db
+Mozilla/Firefox/Crash Reports/*
+Firefox/Profiles/*/Cache/*
+Thunderbird/Profiles/*/Cache/*
+History.IE5/*
+Application Data/Adobe/*
+Application Data/Macromedia/*
+Application Data/Sun/*
+Local Settings/Temp/*
+AppData/Local/Adobe/*
+AppData/Local/Symantec/*
+AppData/Local/Macromedia/*
+AppData/Local/Temp/*
+System Volume Information

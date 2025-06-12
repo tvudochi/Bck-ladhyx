@@ -1,0 +1,14 @@
+.mozilla/firefox/*.default/Cache/*
+.mozilla/firefox/Crash Reports/
+.cache/
+.beagle/
+.kde*
+.adobe/
+.macromedia/
+.nautilus/
+.gconf/
+.xauth*
+.nfs*
+.gnome*/
+.local/
+.vgl/
